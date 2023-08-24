@@ -1,4 +1,3 @@
-//I see, you want to host the `discord.py` bot without integrating it with a Flask web application. Here's a brief guide on how you can host your `discord.py` bot using a cloud hosting service like Heroku:
 
 //1. **Prepare Your Code:**
    //- Make sure your `bot.py` code is ready and includes all the commands and functionality you want for your economy bot.
